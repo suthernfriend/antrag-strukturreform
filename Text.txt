@@ -15,54 +15,62 @@
     Scheidet der gesamte Bundesvorstand aus, insbesondere infolge eines Rücktritts aller Mitglieder, endet die Amtsperiode vorzeitig und es finden auf dem folgenden außerordentlichen oder ordentlichen Bundesparteitag Neuwahlen statt.
 
   (3)
-    Dem Bundesvorstand von Volt Deutschland gehören sieben Mitglieder an:
+    Dem Bundesvorstand von Volt Deutschland gehören einundzwanzig Mitglieder an:
       1. zwei gleichberechtigte Vorsitzende unterschiedlichen Geschlechts;
       2. ein*e Schatzmeister*in;
-      3. vier stellvertretende Vorsitzende; von diesen dürfen maximal die Hälfte demselben Geschlecht angehören.
+      3. vier stellvertretende Vorsitzende; von diesen dürfen maximal die Hälfte demselben Geschlecht angehören;
+      4. vierzehn Beisitzer*innen; jeweils zur Hälfte weiblich/divers und männlich/divers.
 
   (4)
-    Eine Mitgliedschaft im Bundesvorstand ist mit einem Mandat als Abgeordnete*r des Europäischen Parlaments, des Bundestags, eines Landtags sowie mit einem öffentlichen Amt als Mitglied der Europäischen Kommission, der Bundesregierung oder einer Landesregierung sowie eines Amtes als Bürger- oder Oberbürgermeister*in oder Landrat/Landrätin unvereinbar.
-    Eine Mitgliedschaft im Bundesvorstand ist mit einem Mandat auf kommunaler Ebene vereinbar.
+    Die Vorsitzenden, der*die Schatzmeister*in und die stellvertretenden Vorsitzenden bilden das Präsidium des Bundesvorstands.
 
   (5)
-    Eine Mitgliedschaft im Bundesvorstand ist mit einer Mitgliedschaft im Vorstand eines Kreisverbandes, Landesverbandes oder von Volt Europa unvereinbar.
+    Eine Mitgliedschaft im Präsidium des Bundesvorstands ist mit einem Mandat als Abgeordnete*r des Europäischen Parlaments, des Bundestags, eines Landtags sowie mit einem öffentlichen Amt als Mitglied der Europäischen Kommission, der Bundesregierung oder einer Landesregierung sowie eines Amtes als hauptamtliche*r Bürger- oder Oberbürgermeister*in oder Landrat/Landrätin unvereinbar.
+    Eine Mitgliedschaft im Präsidium des Bundesvorstand ist mit einem Mandat auf kommunaler Ebene vereinbar.
 
   (6)
+    Eine Mitgliedschaft im Präsidium des Bundesvorstands ist mit einer Mitgliedschaft im Vorstand eines Kreisverbandes, Landesverbandes oder von Volt Europa unvereinbar.
+
+  (7)
     Der Bundesparteitag kann den Bundesvorstand oder einzelne Mitglieder jederzeit in geheimer Wahl mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen abwählen.
     Nachwahlen für einzelne abgewählte Mitglieder finden noch auf demselben Parteitag statt; Absatz 2 Satz 3 gilt entsprechend.
     Für den Fall der Abwahl des gesamten Bundesvorstands sind noch auf demselben Parteitag Neuwahlen durchzuführen; Absatz 2 Satz 4 gilt entsprechend.
 
-  (7)
-    Der Bundesvorstand vertritt Volt Deutschland gerichtlich und außergerichtlich nach außen.
-    Er führt die Geschäfte auf Grundlage der Beschlüsse des Bundesparteitags oder der Gründungsversammlung.
+  (8)
+    Das Präsidium des Bundesvorstands vertritt Volt Deutschland gerichtlich und außergerichtlich nach außen.
+    Es führt die Geschäfte auf Grundlage der Beschlüsse des Bundesparteitags, des Bundesvorstands und der Gründungsversammlung.
     Soweit die Finanzordnung nichts anderes bestimmt, ist der*die Schatzmeister*in ermächtigt, Volt Deutschland in wirtschaftlichen und finanziellen Angelegenheiten zu vertreten.
     Der Bundesvorstand kann einzelne seiner Vorstandsmitglieder zur alleinigen oder mehrere Vorstandsmitglieder zur gemeinschaftlichen Vertretung nach außen ermächtigen.
 
-  (8)
-    Der Bundesvorstand gibt sich eine Geschäftsordnung.
-    Diese regelt unter anderem die Aufgabenverteilung innerhalb des Bundesvorstands und die Verantwortlichkeiten der einzelnen Vorstandsmitglieder.
-    Diese Geschäftsordnung und jegliche Änderungen sind spätestens zehn Tage nach Beschlussfassung den Mitgliedern schriftlich oder per E-Mail bekanntzugeben.
-
   (9)
-    Der Bundesvorstand fasst seine Beschlüsse mit der Mehrheit der abgegebenen Stimmen.
+    Der Bundesvorstand gibt sich eine Geschäftsordnung, die die Zusammenarbeit zwischen Präsidium und Beisitzer*innen sowie die Aufgabenverteilung regelt.
+    Beschlüsse werden grundsätzlich durch den Gesamtvorstand getroffen.
+    In dringlichen Fällen kann das Präsidium Beschlüsse fassen, die dem Gesamtvorstand in der nächsten Sitzung vorzulegen und von diesem zu bestätigen sind.
+    Personalentscheidungen werden stets durch den Gesamtvorstand getroffen.
+    Der Gesamtvorstand kann solche Beschlüsse bestätigen, modifizieren oder ablehnen.
+    Bei Ablehnung verliert der Beschluss seine Wirksamkeit für die Zukunft, und das Präsidium muss, soweit möglich, Korrekturen vornehmen.
+    Diese Geschäftsordnung und jegliche Änderungen sind spätestens vierzehn Tage nach Beschlussfassung den Mitgliedern schriftlich oder per E-Mail bekanntzugeben.
+
+  (10)
+    Der Bundesvorstand fassen ihre Beschlüsse mit der Mehrheit der abgegebenen Stimmen.
     Enthaltungen gelten als nicht abgegebene Stimmen.
     Die Vorstandsbeschlüsse können auch bei fernmündlichen sowie virtuellen Präsenzsitzungen gefasst werden, wenn eine Echtzeitkommunikation gewährleistet ist.
     Erscheint eine Präsenzsitzung (in Person oder fernmündlich/ virtuell) nicht zweckmäßig, können Beschlüsse auch in einem Umlaufverfahren gefasst werden, wobei es abweichend von § 28 BGB i.V.m. § 32 Absatz 2 BGB nicht der schriftlichen Zustimmung aller Vorstandsmitglieder zum Beschlussinhalt bedarf.
     Vorstandsbeschlüsse werden in namentlicher Abstimmung gefasst und protokolliert.
     Das Nähere regelt der Vorstand in seiner Geschäftsordnung.
-
-  (10)
-    Der Vorstand hat zu Beginn eines jeden Quartals innerhalb von 14 Tagen die Vorstandsbeschlüsse des vergangenen Quartals zu veröffentlichen.
-    Dabei wird das namentliche Abstimmungsverhalten der Vorstandsmitglieder nicht veröffentlicht.
-    Bei der Veröffentlichung haben einzelne Vorstandsmitglieder aber die Möglichkeit, ihre abweichende Meinung im jeweiligen Beschluss darzulegen.
-    Nicht zu veröffentlichen sind solche Vorstandsbeschlüsse, deren Veröffentlichung berechtigte Interessen, insbesondere jene des Datenschutzes und der Wahrung von Geschäftsgeheimnissen, entgegenstehen.
+    Entsprechendes gilt für Beschlüsse des Präsidiums.
 
   (11)
+    Der Bundesvorstand hat innerhalb von vierzehn Tagen nach Befassung sämtliche dem Vorstand vorgelegten Beschlussanträge und ihr Abstimmungsergebnis zu veröffentlichen.
+    Bei der Veröffentlichung haben einzelne Vorstandsmitglieder die Möglichkeit, ihre abweichende Meinung im jeweiligen Beschluss darzulegen.
+    Nicht zu veröffentlichen sind solche Anträge und Beschlüsse, deren Veröffentlichung berechtigte Interessen, insbesondere jene des Datenschutzes und der Wahrung von Geschäftsgeheimnissen, entgegenstehen.
+
+  (12)
     Einzelne Mitglieder des Bundesvorstands können im Rahmen von Anstellungsverhältnissen vergütet werden.
     Über die Anstellung sowie Höhe und Umfang der Vergütung im Einzelfall beschließt der Bundesparteitag im Rahmen der Haushaltsplanung.
     Den Mitgliedern des Bundesvorstands in Ausübung ihrer Vorstandstätigkeit entstandene Aufwendungen werden nach den Regelungen der Finanzordnung ersetzt.
 
-  (12)
+  (13)
     Der Bundesvorstand kann bei Bedarf zur Durchführung seiner Aufgaben und zur Koordination der internen Parteiarbeit zwei Generalsekretär*innen unterschiedlichen Geschlechts ernennen.
 
 # Allgemeine Wahlordnung von Volt Deutschland
@@ -70,11 +78,11 @@
 § 28 – Geltungsbereich
 
   (1) 
-    Die Vorschriften der §§ 29 bis 33 gelten für die Wahlen des Bundesvorstands auf dem Bundesparteitag.
+    Die Vorschriften der §§ 29 bis 35 gelten für die Wahlen des Bundesvorstands auf dem Bundesparteitag.
     Die Regelungen der §§ 1 bis 18 gelten ergänzend.
-
+  
   (2)
-    Landes- und Kreisverbände können in ihrer Satzung für die Wahl des jeweiligen Vorstandes die Geltung des in den §§ 29 bis 33 geregelten Wahlverfahrens anordnen.
+    Landes- und Kreisverbände können in ihrer Satzung für die Wahl des jeweiligen Vorstandes die Geltung des in den §§ 29 bis 35 geregelten Wahlverfahrens anordnen.
 
 § 29 – Reihenfolge der Wahl, Vorstellung und Zusammenfassung der Wahlen
 
@@ -83,6 +91,7 @@
       1. Die Vorsitzenden
       2. Der/die Schatzmeister*in
       3. Die stellvertretenden Vorsitzenden
+      4. Die vierzehn Beisitzer*innen
 
   (2)
     Die Wahlgänge für die verschiedenen Ämter können gemeinsam durchgeführt werden, soweit sich keine*r der Wahlbewerber*innen (hilfsweise) auf mehrere der betroffenen Ämter bewirbt.
@@ -90,23 +99,66 @@
   (3)
     Die Vorstellung aller Wahlbewerber*innen für ein Amt als Mitglied des Bundesvorstandes erfolgt geschlossen vor der Durchführung des ersten Wahlganges nach § 31.
 
-§ 35 – Wahlen des Schiedsgerichts
+§ 35 – Wahl der Beisitzer*innen des Bundesvorstands
+
+  (1)
+    Die Beisitzer*innen des Bundesvorstands werden mittels Single-Transferable Vote (STV) gewählt.
+    Die Wahl erfolgt in getrennten Wahlgängen für die weiblichen/diversen und männlichen/diversen Beisitzer*innen.
+
+  (2)
+    Bei diesem Wahlverfahren geben die stimmberechtigten Personen eine Präferenzliste ab, auf der sie die Kandidat*innen in absteigender Reihenfolge ihrer Präferenz nummerieren.
+    Die Stimmberechtigten können beliebig viele Kandidat*innen nummerieren, müssen jedoch mindestens eine Präferenz angeben.
+
+  (3)
+    Für die Ermittlung der gewählten Kandidat*innen gilt folgendes Verfahren:
+
+    (a)
+      Zunächst wird die Droop-Quote ermittelt.
+      Sie errechnet sich, indem die Gesamtzahl der gültigen Stimmen durch die Anzahl der zu besetzenden Sitze plus eins geteilt und dem Ergebnis 1 hinzuaddiert wird.
+      Bei nicht ganzzahligem Ergebnis wird auf die nächste ganze Zahl abgerundet.
+
+    (b)
+      Alle Kandidat*innen, die auf mindestens so vielen Stimmzetteln als erste Präferenz angegeben wurden, wie die Droop-Quote beträgt, sind gewählt.
+
+    (c)
+      Erhält ein*e Kandidat*in mehr Stimmen als die Droop-Quote, so wird der Überschuss proportional auf die nächsten Präferenzen verteilt (Gregory-Methode).
+      Hierzu wird ein Übertragungswert berechnet, indem der Stimmenüberschuss (erhaltene Stimmen minus Droop-Quote) durch die Gesamtzahl der erhaltenen Stimmen geteilt wird.
+
+    (d)
+      Bei der Gregory-Methode werden die Stimmzettel des/der gewählten Kandidat*in entsprechend dem Übertragungswert auf die jeweils nächste angegebene Präferenz übertragen, die noch nicht gewählt oder ausgeschieden ist.
+      Dies geschieht für jeden Stimmzettel individuell.
+
+    (e)
+      Reicht die Übertragung von Überschussstimmen nicht aus, um die erforderliche Anzahl an Kandidat*innen zu wählen, scheidet der/die Kandidat*in mit den wenigsten Stimmen aus, und dessen/deren Stimmen werden auf die jeweils nächste angegebene Präferenz übertragen.
+
+    (f)
+      Die Schritte b) bis e) werden wiederholt, bis entweder die erforderliche Anzahl an Kandidat*innen gewählt ist oder nur noch so viele Kandidat*innen übrig sind, wie Sitze zu besetzen sind.
+      Im letzteren Fall gelten die verbleibenden Kandidat*innen als gewählt.
+
+    (g)
+      Sind zu irgendeinem Zeitpunkt des Auszählungsverfahrens mehrere Kandidat*innen gleichauf und ist eine Entscheidung über deren Ausscheiden notwendig, so werden alle diese Kandidat*innen gemeinsam ausgeschieden, wenn deren Gesamtzahl an Stimmen weniger als die der/des nächstplatzierten Kandidat*in beträgt.
+      Andernfalls entscheidet der Vergleich der Anzahlen der Zweitpräferenzen, notfalls der Drittpräferenzen usw. Bei weiterhin bestehendem Gleichstand entscheidet das Los.
+
+  (4)
+    Die Auszählung erfolgt für beide Gruppen (weiblich/divers und männlich/divers) getrennt nach demselben Verfahren.
+
+§ 36 – Wahlen des Schiedsgerichts
 
 [...]
 
-§ 36 – Allgemeines
+§ 37 – Allgemeines
 
 [...]
 
-§ 37 – Anzahl der zu wählenden Delegierten
+§ 38 – Anzahl der zu wählenden Delegierten
 
 [...]
 
-§ 38 – Wahl der Delegierten
+§ 39 – Wahl der Delegierten
 
 [...]
 
-§ 39 bis 41 – weggefallen
+§ 40 bis 41 – weggefallen
 
 [...]
 
@@ -129,7 +181,8 @@
     Für den Vollzug des Haushalts- und Finanzplans ist der/die Bundesschatzmeister*in verantwortlich.
     Dieser/diese ist ermächtigt, über Ausgaben zu beschließen, die jeweils 5.000 Euro nicht übersteigen.
     Ausgaben bis zu jeweils 10.000 Euro sind mit Einwilligung zweier Zeichnungsberechtigter aus dem Kreis von Bundesschatzmeister*in und den beiden Bundesvorsitzenden wirksam.
-    Für alle anderen Ausgaben, die jeweils 10.000 Euro übersteigen, ist die Einwilligung des Bundesvorstands erforderlich.
+    Für alle anderen Ausgaben, die jeweils 10.000 Euro übersteigen, ist die Einwilligung des Präsidiums erforderlich, sofern ein Aufschub bis zur nächsten Sitzung des Bundesvorstands nicht zweckdienlich ist.
+    Bei Ausgaben über 100.000 Euro ist in jedem Fall ein Beschluss des Bundesvorstands erforderlich.
 
   (4)
     Abs. 3 gilt entsprechend für Landes- und Kreisverbände.
